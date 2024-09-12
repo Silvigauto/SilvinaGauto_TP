@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>realiza tu pedido</title>
+    <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+    <nav >
+        <div>
+            <a href="/index.html"><img src="/img/logo.jpg" alt="logo de la heladeria" width="100px"></a>
+        </div>
+        <ul >
+            <li><a href="/index.html">Inicio</a></li>
+            <li><a href="/visitanos.html">visitanos</a></li>
+            <li><a href="/pedidos.html">Realiza tu pedido</a></li>
+            
+        </ul>
+    </nav>
+
+    <main>
+        <section>
+            <h1>Realiza tu pedido</h1>
+            <p>Completa el siguiente formulario con tus datos personales para que podamos procesar tu pedido de manera rápida y eficiente. ¡Nos aseguraremos de que tu helado llegue fresco y delicioso, listo para disfrutar!
+            </p>
+            <form>
+                <div>
+                    <label for="nombre">Nombre</label>
+                    <input type="text" name="nombre" id="nombre" placeholder="tu nombre" required/>
+                </div>
+
+                <div>
+                    <label for="apellido">Apellido</label>
+                    <input type="text" name="apellido" id="apellido" placeholder="tu apellido" required pattern=""/>
+                </div>
+
+                <div>
+                    <label for="email">Email</label>
+                    <input type="email" name="email" id="email" placeholder="tu email" required/>
+                </div>
+
+                <div>
+                    <label for="mensaje">Mensaje</label>
+                    <textarea name="mensaje" id="mensaje" cols="40" rows="10" placeholder="tu mensaje"></textarea>
+                </div>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+
+    </footer>
+    
+</body>
+</html>
