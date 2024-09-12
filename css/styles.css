@@ -90,5 +90,43 @@ footer p{
     color: whitesmoke;
 }
 
+
+footer div{
+    display: flex;
+    
+    justify-content: center;
+}
+
+footer img{
+    margin: 10px;
+}
 /* pagina realiza tu pedido */
 
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    
+}
+
+
+
+/* ver bien esto */
+input, textarea {
+    padding: 10px;
+     margin-bottom: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+
+    width: 100%; 
+}
+
+button {
+    margin: 10px;
+    padding: 10px ;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: white;
+
+}
