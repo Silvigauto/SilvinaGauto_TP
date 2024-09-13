@@ -1,19 +1,25 @@
-# Nombre del Proyecto
+# TP Silvina Gauto "Helados lo del Nono"
 
-Descripción breve del proyecto.
+Sitio web con tematica de heladeria, con 3 paginas html: "Inicio" "Nosotros" y "Realiza tu pedido"
 
-## Instalación
+Uso de:
 
-Instrucciones sobre cómo instalar y ejecutar el proyecto.
 
-## Uso
+- Etiquetas semánticas
 
-Ejemplos y guías sobre cómo usar el proyecto.
+- Forms
 
-## Contribución
+- Imágenes, videos y mapa
 
-Guía para contribuir al proyecto.
 
-## Licencia
 
-Información sobre la licencia del proyecto.
+
+## Preview
+
+Una vista previa de la página!
+
+![Preview de la pagina](img\preview.png)
+![Preview de la pagina](img\preview2.png)
+![Preview de la pagina](img\preview3.png)
+
+
