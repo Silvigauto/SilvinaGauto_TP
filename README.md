@@ -18,8 +18,8 @@ Uso de:
 
 Una vista previa de la página!
 
-![Preview de la pagina](img\preview.png)
-![Preview de la pagina](img\preview2.png)
-![Preview de la pagina](img\preview3.png)
+![Preview de la pagina](img/preview.png)
+![Preview de la pagina](img/preview2.png)
+![Preview de la pagina](img/preview3.png)
 
 
