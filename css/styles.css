@@ -70,12 +70,13 @@ h2{
 }
 
 .eleginos p,h2{
-    padding-right: 40px;
+    padding-right: 20px;
 }
 
 .eleginos p {
     padding-top: 20px;
 }
+
 
 
 .nuestros_helados {
@@ -121,6 +122,7 @@ footer{
     background-color: #3980B3;
     margin-top: 100px;
     height: 300px;
+    margin-bottom: 0px;
 }
 
 footer p{
